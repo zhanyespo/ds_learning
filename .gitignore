@@ -9,6 +9,7 @@ __pycache__/
 data/raw/
 data/processed/
 models/
+projects/titanic_prediction/data/
 
 # Ignore system files
 .DS_Store
